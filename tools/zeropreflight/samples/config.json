@@ -1,0 +1,12 @@
+{
+  "MaxInflightRequests": 0,
+  "Recovery": false,
+  "RecoveryTimeoutMs": 0,
+  "RecoveryBackoffMs": 0,
+  "RecoveryRetries": 0,
+  "ServerLackOfAckTimeoutMs": 90000,
+  "FlushTimeoutMs": 0,
+  "RecordType": 7,
+  "StreamPausedMaxWaitTimeMs": 0,
+  "CallbackMaxWaitTimeMs": 5000
+}

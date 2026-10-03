@@ -1,0 +1,10 @@
+{"id":1,"message":"hello"}
+{"id":2,"message":"ok","extra":true}
+{"id":"3","message":"x"}
+{"message":"no id"}
+[1,2,3]
+{"id":6,"id":7}
+{"id":7,"message":42}
+{"id":8,"messge":"typo"}
+not-json{
+{"id":10,"message":"ok"}

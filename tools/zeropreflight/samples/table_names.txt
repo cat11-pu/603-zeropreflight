@@ -1,0 +1,8 @@
+1 catalog.schema.table
+2 main.events_2026.v1
+3 cat.schema
+4 catalog..table
+5 Catalog.Schema.Table
+6 9cat.bad.seg
+7 catalog.schema.tab-le
+8 a.b.ccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc
